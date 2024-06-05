@@ -1,7 +1,25 @@
 {
-  "timestamp": "2024-06-05T11:08:53.144Z",
-  "status": 403,
-  "error": "Forbidden",
-  "message": "Forbidden",
-  "path": "/api/snippet-matching"
+  "logRef": "hub-scan_Z78dhX1L",
+  "errorMessage": "Code snippet must have between 300 and 50000 non-whitespace characters. Provided code snippet has 201 characters.",
+  "arguments": {
+    "numCharacters": "201",
+    "minCharacters": "300",
+    "maxCharacters": "50000"
+  },
+  "errorCode": "{scan.siggen.snippet.length.out.of.bounds}",
+  "errors": [
+    {
+      "logRef": "hub-scan_Z78dhX1L",
+      "errorMessage": "Code snippet must have between 300 and 50000 non-whitespace characters. Provided code snippet has 201 characters.",
+      "arguments": {
+        "numCharacters": "201",
+        "minCharacters": "300",
+        "maxCharacters": "50000"
+      },
+      "errorCode": "{scan.siggen.snippet.length.out.of.bounds}",
+      "errors": [],
+      "links": []
+    }
+  ],
+  "links": []
 }

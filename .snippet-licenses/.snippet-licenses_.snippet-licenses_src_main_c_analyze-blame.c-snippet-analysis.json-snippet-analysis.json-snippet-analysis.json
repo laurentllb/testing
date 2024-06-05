@@ -1,7 +1,8 @@
 {
-  "timestamp": "2024-06-05T11:08:52.712Z",
-  "status": 403,
-  "error": "Forbidden",
-  "message": "Forbidden",
-  "path": "/api/snippet-matching"
+  "logRef": "hub-scan_JWuGHArJ",
+  "errorMessage": "Input request parsing error",
+  "arguments": {},
+  "errorCode": "{core.rest.message_conversion}",
+  "errors": [],
+  "links": []
 }
