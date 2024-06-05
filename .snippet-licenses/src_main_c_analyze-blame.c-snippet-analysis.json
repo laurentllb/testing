@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-06-05T10:40:52.925Z",
+  "status": 403,
+  "error": "Forbidden",
+  "message": "Forbidden",
+  "path": "/api/snippet-matching"
+}
