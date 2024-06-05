@@ -3,7 +3,7 @@
 #include "analyze.h"
 #include "analyze-blame.h"
 #include "analyze-time-data.h"
-#include "format-table.h"
+#include "format-table.h" 
 
 int verb_blame(int argc, char *argv[], void *userdata) {
         _cleanup_(sd_bus_flush_close_unrefp) sd_bus *bus = NULL;
