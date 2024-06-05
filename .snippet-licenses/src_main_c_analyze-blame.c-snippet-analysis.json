@@ -1,8 +1,7 @@
 {
-  "logRef": "hub-scan_FQVHMGVI",
-  "errorMessage": "Invalid username or password",
-  "arguments": {},
-  "errorCode": "{core.rest.unauthenticated}",
-  "errors": [],
-  "links": []
+  "timestamp": "2024-06-05T11:08:53.283Z",
+  "status": 403,
+  "error": "Forbidden",
+  "message": "Forbidden",
+  "path": "/api/snippet-matching"
 }
