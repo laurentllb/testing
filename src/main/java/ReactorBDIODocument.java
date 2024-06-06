@@ -17,7 +17,7 @@ import reactor.core.publisher.EmitterProcessor;
 import reactor.core.publisher.Flux;
 
 public class ReactorBdioDocument extends BdioDocument {
-
+// That is a nice comment
     public ReactorBdioDocument(BdioContext context) {
         super(context);
     }
