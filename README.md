@@ -1,1 +1,1 @@
-# testing
+# Demo of the API
